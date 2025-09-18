@@ -1,6 +1,6 @@
 Abenteuerideen für Elarion Telwë
 
-1. Die Sterne von Forochel
+# 1. Die Sterne von Forochel
 
 Ort: Das Eisland Forochel im hohen Norden
 Handlung:
@@ -10,7 +10,7 @@ Thema: Hoffnung im ewigen Eis, kulturelle Begegnung.
 
 ⸻
 
-2. Das verschollene Sternenlied
+## 2. Das verschollene Sternenlied
 
 Ort: Imladris (Rivendell) und alte Ruinen von Eregion
 Handlung:
@@ -20,7 +20,7 @@ Thema: Die Frage, ob Wissen immer bewahrt oder manchmal verborgen werden sollte.
 
 ⸻
 
-3. Der letzte Navigator
+### 3. Der letzte Navigator
 
 Ort: Lindon und die Küsten des Westens
 Handlung:
