@@ -1,27 +1,28 @@
 Persönlichkeit von Elarion Telwë
 
-Wesenszüge
+#Wesenszüge
 	•	Nachdenklich & suchend: Elarion verbringt viel Zeit im stillen Beobachten. Er sucht stets nach dem „verborgenen Sinn“ hinter dem, was er sieht – sei es in den Sternen, in Geschichten oder in den Herzen anderer.
 	•	Sanftmütig & friedliebend: Er ist kein Kämpfer von Natur aus, sondern ein Bewahrer. Konflikte versucht er mit Worten und Weisheit zu lösen.
 	•	Geduldig & beharrlich: Elarion verliert nie die Ruhe, selbst wenn er lange auf Antworten warten muss. Diese Ausdauer machte ihn zu einem geschätzten Gelehrten.
 	•	Melancholisch: Sein Blick geht oft in die Ferne. Er sehnt sich nach etwas, das er nicht ganz fassen kann – vielleicht nach dem unerreichbaren Glanz von Valinor.
 
-Werte und Überzeugungen
+##Werte und Überzeugungen
 	•	Das Licht der Sterne ist für ihn ein Symbol der Hoffnung. Selbst in dunklen Zeiten glaubt er daran, dass es Orientierung geben kann.
 	•	Wissen ist Bewahrung: Er sieht es als seine Pflicht, das alte Wissen der Elben zu erhalten und weiterzugeben.
 	•	Maß und Ausgleich: Für ihn sind Harmonie und Balance wichtiger als Ruhm oder Macht.
 
-Stärken
+###Stärken
 	•	Große Weisheit und Intuition
 	•	Ausgeprägtes Einfühlungsvermögen
 	•	Fähigkeit, Ruhe in andere zu bringen
 	•	Gutes Gespür für Navigation und Orientierung
 
-Schwächen
+####Schwächen
 	•	Kann weltfern wirken, da er oft in Gedanken und Sternbildern verloren ist
 	•	Manchmal zu zurückhaltend, um Führungsrollen einzunehmen
 	•	Seine Melancholie lässt ihn gelegentlich zögern, wo Entschlossenheit nötig wäre
 
-Wirkung auf andere
+#####Wirkung auf andere
 
 Elarion strahlt eine stille Autorität aus. Viele fühlen sich in seiner Nähe geborgen und inspiriert, da er Hoffnung in Bildern und Geschichten zu wecken weiß. Für Krieger ist er kein Heerführer – doch als Ratgeber und Hüter des Wissens wird er hoch geschätzt.
+
