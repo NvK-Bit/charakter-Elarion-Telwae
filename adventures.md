@@ -27,3 +27,5 @@ Handlung:
 Ein Schiff der Númenórer, das einst von Elben unterrichtet wurde, ist seit Jahrhunderten verschollen. Nun tauchen Bruchstücke eines alten Logbuchs auf, die seinen Kurs beschreiben. Elarion sieht es als seine Aufgabe, das Schiff zu finden – oder wenigstens den Nachkommen in Gondor von seinem Schicksal zu berichten.
 Konflikt: Die Reise führt in Gewässer, die von dunklen Kreaturen der Tiefen bewacht werden, und zwingt Elarion, seinen Platz zwischen Vergangenheit und Zukunft zu finden.
 Thema: Abschied, Erinnerung und das Loslassen der alten Welt.
+
+[Númenórer]: https://lotr.fandom.com/de/wiki/Númenórer
